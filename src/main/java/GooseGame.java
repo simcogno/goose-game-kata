@@ -1,5 +1,6 @@
+import java.util.*;
 
-public class GooseGameKata {
+public class GooseGame {
 
 
 }
